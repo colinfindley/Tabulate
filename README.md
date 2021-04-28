@@ -1,6 +1,6 @@
 # Tabulate
 #### Video Demo:  https://www.youtube.com/watch?v=Ezj1Prb9hj4
-#### Description: A Google Chrome Extension that helps you to manage your tabs in one centralized location. The Program was built using React and Manifest V2. If you are a chronic tab hoarder, you might find this extension useful. It will *hopefully* be accepted by Google as an official chrome extension soon!
+#### Description: A Google Chrome Extension that helps you to manage your tabs in one centralized location. The Program was built using React and Manifest V2. If you are a chronic tab hoarder, you might find this extension useful.
 
 #### Inspiration and Intentions for the Project
 The project idea was born out of my difficulties with managing and hoarding tabs. I decided that I would create a google chrome extension to be able to access, close, and bookmark tabs from one location. I also wanted to be able to send reminders to the users when tabs had been opened past a time that they could set manually. If no time is given, the reminder time will default to one day.  The user can also optionally turn off "reminder mode". 
